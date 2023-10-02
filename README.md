@@ -18,7 +18,7 @@ Minhas principais competências incluem:
 
 ## Experiência
 
-Ao longo dos anos, tive a oportunidade de compartilhar meu conhecimento como professor em várias faculdades no Rio Grande do Sul, desde 2011. Também ministrei cursos e oficinas de IoT para empresas de renome, como Dell Computadores, Braskem e várias instituições de ensino.
+Desde 2011 tive a oportunidade de compartilhar meu conhecimento como professor em várias instituições de ensino do Rio Grande do Sul. Também ministrei cursos e oficinas de IoT para empresas de renome, como Dell Computadores, Braskem e Sicredi.
 
 Além disso, adquiri nove anos de experiência valiosa trabalhando na manutenção e calibração de equipamentos analíticos para empresas líderes, como Coca-Cola, Perdigão, O Boticário, Parmalat e Petrobras.
 
