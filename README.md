@@ -24,9 +24,9 @@ Além disso, adquiri nove anos de experiência valiosa trabalhando na manutenç�
 
 ## Educação
 
-Possuo um mestrado em Informática na Educação, onde desenvolvi um produto inovador para o ensino de lógica de programação nas séries iniciais. Esse produto recebeu o registro junto ao INPI, destacando minha capacidade de criar soluções educacionais impactantes.
+Possuo mestrado em Informática na Educação, onde desenvolvi um produto inovador para o ensino de lógica de programação nas séries iniciais. Esse produto recebeu o registro de software junto ao INPI, destacando minha capacidade de criar soluções educacionais impactantes.
 
-Estou comprometido em continuar aprimorando minhas habilidades e contribuindo para a comunidade de tecnologia por meio de projetos emocionantes e iniciativas de ensino.
+Sou comprometido no aprimoramento das minhas habilidades e contribuição para a comunidade de tecnologia por meio de projetos emocionantes e iniciativas de ensino.
 
 Fique à vontade para entrar em contato comigo para colaborações ou oportunidades de aprendizado! 
 
